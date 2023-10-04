@@ -1,7 +1,7 @@
 {
   "name": "fm-news-homepage",
   "private": true,
-  "homepage": "http://pablo-ambrogio.github.io/00-react-news-homepage",
+  "homepage": "https://pablo-ambrogio.github.io/00-react-news-homepage",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
